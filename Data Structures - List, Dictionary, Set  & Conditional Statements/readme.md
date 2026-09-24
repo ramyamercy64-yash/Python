@@ -1,5 +1,5 @@
-#Data Structures - List, Dictionary, Set  & Conditional Statements 
-
+##Data Structures - List, Dictionary, Set 
+& Conditional Statements 
 
 ## 📌 Overview
 
@@ -34,7 +34,7 @@ Created an `age_list` containing five integer values and a `name_list` containin
 ```python
 age_list = [24, 25, 26, 27, 28]
 
-name_list = ["Ramya", "Anjali", "Sneha", "Priya", "Kavya"]
+name_list = ["yash", "krish", "nani", "bunny", "deepu"]
 ```
 
 ### List Operations
@@ -70,11 +70,11 @@ A dictionary named `student_marks` was created to store student names and their 
 
 ```python
 student_marks = {
-    "Ramya": 85,
-    "Anjali": 76,
-    "Sneha": 92,
-    "Priya": 68,
-    "Kavya": 74
+    yash: 85,
+    krish: 76,
+    nani: 92,
+    bunny: 68,
+    deepu: 74
 }
 ```
 
