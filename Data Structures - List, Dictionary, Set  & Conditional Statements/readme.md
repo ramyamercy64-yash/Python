@@ -1,4 +1,4 @@
-##Data Structures - List, Dictionary, Set 
+Data Structures - List, Dictionary, Set 
 & Conditional Statements 
 
 ## 📌 Overview
